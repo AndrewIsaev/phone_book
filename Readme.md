@@ -17,7 +17,7 @@ Simple console phone book
 ## Start app
 1. Clone repository
    ```
-   git clone 
+   git clone https://github.com/AndrewIsaev/phone_book.git
 2. Open path n terminal and run main.py
    ```
     python3 main.py
