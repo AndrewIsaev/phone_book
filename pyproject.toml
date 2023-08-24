@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "phonebook"
+version = "0.1.0"
+description = ""
+authors = ["Andrey Isaev <an.isaev7@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pydantic = "^2.3.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
