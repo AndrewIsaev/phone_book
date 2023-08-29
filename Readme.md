@@ -9,7 +9,6 @@ Simple console phone book
 ***
 ## Technology stack
 - Python 3.11
-- Django 4.1.7
 - black
 - poetry
 
